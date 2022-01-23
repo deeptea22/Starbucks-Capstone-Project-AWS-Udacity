@@ -1,15 +1,25 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project
 Deepthi M 
-January 23rd 2022
+January 24th 2022
 
 ## I. Definition
 _(approx. 1-2 pages)_
 
 ### Project Overview
-In this section, look to provide a high-level overview of the project in layman’s terms. Questions to ask yourself when writing this section:
-- _Has an overview of the project been provided, such as the problem domain, project origin, and related datasets or input data?_
-- _Has enough background information been given so that an uninformed reader would understand the problem domain and following problem statement?_
+Starbucks founded by Jerry Baldwin, Zev Siegl, and Gordon Bowker in 1971 is now the largest coffeehouse chain in the world. Through their constant improvisation and attention to detail, Starbucks have increased their customers immensely. Starbucks is further enhancing its customer experience with the introduction of a new Starbucks Rewards program. 
+
+Through this program, there are three types of offers that can be sent: buy-one-get-one (BOGO), discount, and informational. In a BOGO offer, a user needs to spend a certain amount to get a reward equal to that threshold amount. In a discount, a user gains a reward equal to a fraction of the amount spent. In an informational offer, there is no reward, but neither is there a requisite amount that the user is expected to spend. Offers can be delivered via multiple channels.
+
+With this information, it would be useful to perform Customer Segmentation. Customer targeting and segmentation is a popular tactic to re-engage old customers, invite new ones and drive sales. Customer Segmentation is the process of dividing the customers into groups or clusters based on certain similarities they have so that we can market or sell to each of these groups properly. 
+
+It was in the 1950s that, customer segmentation became a formal part of modern system. The definition of customer segmentation as given by Smith in 1956 is `Market segmentation involves viewing a heterogeneous market as a number of smaller homogeneous markets, in response to differing preferences, attributable to the desires of customers for more precise satisfactions of their varying wants`. Wedel and Kamakura also stated `Market Segmentation is an essential element of marketing in industrialized countries.  Goods can no longer be produced and sold without considering customer needs and recognizing the heterogeneity of those needs` in their book `Market Segmentation`.
+
+Therefore, customer segmentation mainly depends on three assumptions:
+- The group of customers is heterogeneous
+- But these heterogeneous groupings should have characteristics that can be recognized and examined.
+- Exclusive promotions to fulfil the demands of customers
+
 
 ### Problem Statement
 In this section, you will want to clearly define the problem that you are trying to solve, including the strategy (outline of tasks) you will use to achieve the desired solution. You should also thoroughly discuss what the intended solution will be for this problem. Questions to ask yourself when writing this section:
